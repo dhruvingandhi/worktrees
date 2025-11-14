@@ -1,1 +1,1 @@
-test
+connection: "thelook_mysql"
